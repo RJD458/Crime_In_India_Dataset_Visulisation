@@ -1,2 +1,3 @@
 # Crime_In_India_Dataset_Visulisation
-Crime Head Wise Analysis
+Crime Head Wise Analysis : 
+                        This analysis explores crime data from India to understand the relationship between First Information Reports (FIRs), charge sheets, and final reports. Using data visualization and correlation analysis, it reveals a strong positive correlation between the number of FIRs and charge sheets filed, indicating a close relationship between these stages of a criminal case. Moderate positive correlations are also observed between charge sheets and final reports, as well as between FIRs and final reports, suggesting a less direct but still significant connection. The analysis highlights that while FIRs and charge sheets often lead to final reports, there are cases where this progression may not occur. These insights provide a better understanding of the dynamics within the Indian criminal justice system.
